@@ -5,6 +5,9 @@ Official repository on "**Bridging the Gap in Exam Handwritten Text Recognition:
 - **BNU-Exam-Benchmark** – a fine-grained evaluation benchmark with 12 real exam writing scenarios.
 - **EduOCR** – an exam-oriented OCR method.
 
+> **Status**  
+> This work is currently under review. The full BNU-Exam-HTR dataset, BNU-Exam-Benchmark, and EduOCR source code will be released publicly after the review process. In the meantime, the placeholders (`xxx`) indicate resources that will be updated once everything is ready for release.
+
 <div style="display: flex; justify-content: space-between;">
   <img src="Pasted image 20251107050834.png" alt="Image 1" style="width: 40%; height: auto;">
   <img src="Pasted image 20251107050622.png" alt="Image 2" style="width: 25%; height: auto;">
